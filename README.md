@@ -16,9 +16,9 @@
 
 ### Getting started
 
-1. Create a new RStudio project and name it `project`. Add it inside the `Workspace/` directory.
-2. Create a new Quarto document called `step_1_interest.qmd`, name it "Project Step 1: Interest statement", and save it in the `project/` directory.
-3. Remove the contents of the Quarto document so you have a blank document to work with.
+1. Clone the [project_step_1](https://github.com/lin-380-s24/project_step_1) repository on GitHub. Add it inside the `Workspace/` directory.
+2. Create a new Quarto document called `step_1_interest.qmd`, name it "Project Step 1: Interest statement".
+3. Remove the contents of the Quarto document so you have a blank document to work with. Save and render the document to PDF to ensure everything is working properly.
 
 ### Brainstorming
 
