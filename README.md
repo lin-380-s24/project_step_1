@@ -47,7 +47,6 @@ Some questions to consider:
 - What questions or concerns do you have at this point?
 - What do you need to address in order to move forward?
 
-
 ## Submission
 
 1. Prepare a Quarto document that includes your interest statement and your self-assessment. Use the necessary Quarto features to format your document (*e.g.*, headings, lists, links, citations, *etc.*).
