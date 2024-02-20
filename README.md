@@ -26,7 +26,7 @@
 2. Search scholarly articles on a topic and/ or area of potential interest to you. You can use [Google Scholar](https://scholar.google.com/) or WFU ZSR Library's [Linguistics and Language Behavior Abstracts (LLBA) interface](http://zsr.wfu.edu/databases/purl/28783) as your search engine. Be sure to include terms like 'text analysis, 'corpus analysis' or 'corpus study' as part of your search criteria to help identify research which will be more directly relevant to the methods in this course.
 3. Identify at least two articles which you find particularly interesting. (Note: you are not committing yourself to these articles or this topic/ area.) Focus on the aims of the studies and the main findings. Consider what is potentially something you would like to know more about or find surprising.
 
-### Summarize
+### Draft an interest statement
 
 1. Write an interest statement that outlines some of your interests in language and linguistics that you may be interested in exploring in your course project. Your statement should be a paragraph or two in length and should address the following questions:
 
