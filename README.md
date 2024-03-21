@@ -28,7 +28,7 @@
 
 ### Draft an interest statement
 
-1. Write an interest statement that outlines some of your interests in language and linguistics that you may be interested in exploring in your course project. Your statement should be a paragraph or two in length and should address the following questions:
+1. Write an interest statement that outlines some of your interests in language and linguistics that you may be interested in exploring in your course project based on your [brainstorming](#brainstorming). Your statement should be a paragraph or two in length and should address the following questions:
 
    - What are your interests in language and linguistics?
    - What are some topics and/or areas of language and linguistics that you would like to explore in your course project?
