@@ -35,7 +35,7 @@
    - What are some examples from the literature in the area(s) you are interested in that you find particularly interesting? (Note: summarize the aims and main findings of the studies you identified in the previous step.)
    - Do these examples suggest any questions you would like to explore further?
 
-### Assessing your progress
+## Assessing your progress
 
 1. Reflect on the process of identifying an area of interest.
 
